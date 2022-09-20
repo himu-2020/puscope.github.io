@@ -582,19 +582,19 @@ body{
     width: 100vw;
   }
 
-  .hcenter .row{
+  .help-center .row{
     flex-flow: column-reverse;
   }
 
-  .hcenter .row:nth-child(even){
+  .help-center .row:nth-child(even){
     flex-flow: column;
   }
 
-  .hcenter .row .image img{
+  .help-center .row .image img{
     width: 100vw;
   }
 
-  .hcenter .row .content{
+  .help-center .row .content{
     padding:0;
   }
 
